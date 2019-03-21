@@ -20,7 +20,7 @@
  * THE SOFTWARE.
  */
 // first day read
-//asd asd asd asd
+
 #include <libavcodec/avcodec.h>
 #include <libavformat/avformat.h>
 #include <libavformat/avio.h>
